@@ -1,4 +1,13 @@
+body{
+    font-family: "DIN Round Pro";
+}
+
 #news{
-    font-family: "DINRoundPro","Nunito","cursive" ;
+    text-align: center;
+    font-family: "DIN Round Pro","Nunito","cursive" ;
+    font-weight: bolder;
+    font-size: x-large;
+    width: 100%;
+    height: 2pc;
     background-color: #ff3c00;
 }
