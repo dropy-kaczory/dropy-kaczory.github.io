@@ -16,8 +16,6 @@ body{
     height: 80%;
     border-radius: 10%;
     border: 5% #000;
-}
-#news button a{
     font-family: "DIN Round Pro","Nunito",cursive;
     text-decoration: none;
     color: #000;
