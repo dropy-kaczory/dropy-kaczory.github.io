@@ -1,0 +1,14 @@
+.bobimg{
+    width: fit-content;
+    max-width: 45%;
+    border: 5px #00b7ff solid;
+    margin: 0.3%;
+}
+#piskle2{
+    width: 60%;
+    height: 25%;
+}
+#flex{
+    display: flex;
+    flex-wrap: wrap;
+}
