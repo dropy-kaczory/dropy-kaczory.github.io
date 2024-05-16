@@ -1,5 +1,6 @@
 body{
     font-family: "DIN Round Pro", "Nunito", cursive;
+    background: fixed no-repeat linear-gradient(#00b7ff,#0033ff);
 }
 
 #news{
