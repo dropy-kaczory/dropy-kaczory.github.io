@@ -1,12 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap');
 body {
-    font-family: "DIN Round Pro", "Nunito", cursive;
     background: fixed no-repeat linear-gradient(#00b7ff, #0033ff);
+}
+
+* {
+    font-family: "Nunito", "DIN Round Pro", "Montserrat";
 }
 
 #news {
     text-align: center;
-    font-family: "DIN Round Pro", "Nunito", cursive;
     font-weight: bolder;
     font-size: 3vh;
     width: 100%;
@@ -47,4 +49,13 @@ a {
     border: 1px rgb(129, 129, 129) solid;
     border-radius: 15px;
     padding: 5px;
+}
+
+.stopped {
+    font-style: italic;
+    background-color: #251515;
+}
+
+main {
+    text-align: center;
 }
