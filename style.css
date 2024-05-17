@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap');
 body {
     font-family: "DIN Round Pro", "Nunito", cursive;
     background: fixed no-repeat linear-gradient(#00b7ff, #0033ff);
@@ -43,7 +44,7 @@ a {
 #bob-list h2 {
     text-align: right;
     width: 100%;
-    border: 1px white solid;
+    border: 1px rgb(129, 129, 129) solid;
     border-radius: 15px;
     padding: 5px;
 }
