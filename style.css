@@ -1,26 +1,49 @@
-body{
+body {
     font-family: "DIN Round Pro", "Nunito", cursive;
-    background: fixed no-repeat linear-gradient(#00b7ff,#0033ff);
+    background: fixed no-repeat linear-gradient(#00b7ff, #0033ff);
 }
 
-#news{
+#news {
     text-align: center;
-    font-family: "DIN Round Pro", "Nunito", cursive ;
+    font-family: "DIN Round Pro", "Nunito", cursive;
     font-weight: bolder;
     font-size: 3vh;
     width: 100%;
     height: 4fr;
     background-color: #ff3c00;
 }
-#news button{
+
+#news button {
     background-color: #ff3c00;
     height: 80%;
     border-radius: 10%;
     border: 5% #000;
-    font-family: "DIN Round Pro","Nunito",cursive;
+    font-family: "DIN Round Pro", "Nunito", cursive;
     text-decoration: none;
     color: #000;
 }
-header{
+
+header {
     text-align: center;
+}
+
+a {
+    color: #fff;
+    text-decoration: none;
+}
+
+#bob-list {
+    background-color: #000;
+    width: 40vw;
+    border-radius: 15px;
+    padding: 15px;
+    padding-right: 30px;
+}
+
+#bob-list h2 {
+    text-align: right;
+    width: 100%;
+    border: 1px white solid;
+    border-radius: 15px;
+    padding: 5px;
 }
