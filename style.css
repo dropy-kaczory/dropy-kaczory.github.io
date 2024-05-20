@@ -83,3 +83,11 @@ main {
     align-content: center;
     display: flex;
 }
+
+ul {
+    text-align: justify;
+}
+
+cross {
+    text-decoration: line-through;
+}
